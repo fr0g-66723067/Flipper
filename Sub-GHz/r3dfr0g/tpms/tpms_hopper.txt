@@ -1,0 +1,6 @@
+# Flipper Zero Frequency Hopper Configuration
+# Total frequencies: 3
+
+315000000
+433920000
+434000000

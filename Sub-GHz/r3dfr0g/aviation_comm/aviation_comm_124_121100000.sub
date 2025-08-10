@@ -1,0 +1,6 @@
+Filetype: Flipper SubGhz Key File
+Version: 1
+Frequency: 121100000
+Preset: FuriHalSubGhzPresetOok650000
+Protocol: RAW
+RAW_Data: 100 -100
